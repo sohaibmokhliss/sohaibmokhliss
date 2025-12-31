@@ -68,7 +68,7 @@ You can also add dynamic stats (optional):
 - GitHub: https://github.com/sohaibmokhliss  
 - Portfolio: https://sohaibmokhliss.github.io  
 - LinkedIn: https://www.linkedin.com/in/sohaib-mokhliss/  
-- Email: (add your preferred contact email here)
+- Email: sohaibmokhliss@gmail.com
 
 ---
 
