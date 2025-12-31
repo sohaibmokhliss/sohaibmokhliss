@@ -1,49 +1,74 @@
-# 👋 Hi, I’m Sohaib Mokhliss
+# 👋 Hi — I’m Sohaib Mokhliss
 
-### Cybersecurity & Network Engineering | DevOps Automation
+### Cybersecurity • Network Engineering • DevOps Automation
 
-I’m a 5th-year Computer & Network Engineering student focused on cybersecurity, penetration testing, network security and DevOps automation. I build secure, reliable systems and enjoy bridging the gap between infrastructure and security.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-blue?logo=web)](https://github.com/sohaibmokhliss/sohaibmokhliss.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaib-mokhliss/) [![GitHub followers](https://img.shields.io/github/followers/sohaibmokhliss?label=Follow&style=social)](https://github.com/sohaibmokhliss)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?logo=google-chrome&logoColor=white)](https://sohaibmokhliss.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaib-mokhliss/) [![GitHub followers](https://img.shields.io/github/followers/sohaibmokhliss?label=Follow&style=social)](https://github.com/sohaibmokhliss)
 
 ---
 
 ## About me
+I’m a 5th‑year Computer & Network Engineering student building secure, reliable systems with a security-first mindset. I focus on penetration testing, network security, incident response, and DevOps automation—making infrastructure reproducible, observable, and resilient.
 
-I’m currently finishing my degree and focusing on real-world security and DevOps problems: automation, secure infrastructure, incident response and penetration testing. I enjoy learning new cloud technologies and using automation to reduce human error.
+- 🔭 Currently: DevOps automation & security tooling  
+- 🎯 Interests: Cloud security, IaC, container orchestration, purple-team exercises  
+- 🌍 Languages: English (EN) • Français (FR)
 
-I like combining hands-on offensive security work with infrastructure automation to design systems that are not only functional but resilient and secure by design.
+---
 
-## Skills
+## Highlights
+- Intern experience in cybersecurity, penetration testing and DevOps
+- Terminal-inspired portfolio UI (live demos & source available)
+- Strong practical skills in both offensive security and infrastructure automation
 
-- Penetration Testing & Network Security
-- DevOps: CI/CD, automation, container orchestration (Docker, Kubernetes)
-- Languages & Tools: JavaScript, Bash, Python, HTML, CSS, Git
-- Cloud: Oracle Cloud, Azure (virtual networks)
+---
 
-## Experience
+## Skills & Tools
+- Security & Networking: Penetration Testing, Network Security, Incident Response, Security Analysis  
+- DevOps & Cloud: CI/CD, Terraform/Ansible (IaC), Docker, Kubernetes, OCI, Azure  
+- Languages & Web: JavaScript, Python, Bash, HTML, CSS  
+- Other: Git, Linux, Observability tooling
 
+---
+
+## Selected Experience
 - Cybersecurity Analyst (Intern) — HPS
 - Penetration Tester (Intern) — CIH
 - DevOps / Security Intern — ITPay
 
-## Projects
+---
 
-- Todo Planner — personal project (link in portfolio)
-- Portfolio Terminal — terminal-inspired portfolio (https://github.com/sohaibmokhliss/sohaibmokhliss.github.io)
-- DevOps Internship Infrastructure — infra code used during internship
+## Projects
+- **Portfolio Terminal** — terminal-inspired portfolio (source & live site)  
+  https://github.com/sohaibmokhliss/sohaibmokhliss.github.io
+- **Todo Planner** — personal productivity app (see portfolio for demo)  
+- **DevOps Internship Infrastructure** — infra code & automations used during internship
+
+(See portfolio for live demos, screenshots and source links.)
+
+---
 
 ## Certifications (selected)
-
-- Oracle Cloud Infrastructure DevOps Professional (2025)
-- Ethical Hacking Essentials
-- Docker & Kubernetes Intro
+- Oracle Cloud Infrastructure — DevOps Professional (2025)  
+- Ethical Hacking Essentials  
+- Introduction to Containers with Docker, Kubernetes & OpenShift  
 - Virtual Networks in Azure
 
-## Connect
+---
 
-- GitHub: https://github.com/sohaibmokhliss
-- LinkedIn: https://www.linkedin.com/in/sohaib-mokhliss/
+## Tech / Stats (live)
+![Top Languages](https://img.shields.io/github/languages/top/sohaibmokhliss/sohaibmokhliss.github.io?color=blue)
+![Repo size](https://img.shields.io/github/repo-size/sohaibmokhliss/sohaibmokhliss.github.io)
+
+You can also add dynamic stats (optional):
+- GitHub stats: `https://github-readme-stats.vercel.app/api?username=sohaibmokhliss&show_icons=true`
+
+---
+
+## Contact
+- GitHub: https://github.com/sohaibmokhliss  
+- Portfolio: https://sohaibmokhliss.github.io  
+- LinkedIn: https://www.linkedin.com/in/sohaib-mokhliss/  
+- Email: (add your preferred contact email here)
 
 ---
 
