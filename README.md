@@ -55,15 +55,6 @@ I’m a 5th‑year Computer & Network Engineering student building secure, relia
 
 ---
 
-## Tech / Stats (live)
-![Top Languages](https://img.shields.io/github/languages/top/sohaibmokhliss/sohaibmokhliss.github.io?color=blue)
-![Repo size](https://img.shields.io/github/repo-size/sohaibmokhliss/sohaibmokhliss.github.io)
-
-You can also add dynamic stats (optional):
-- GitHub stats: `https://github-readme-stats.vercel.app/api?username=sohaibmokhliss&show_icons=true`
-
----
-
 ## Contact
 - GitHub: https://github.com/sohaibmokhliss  
 - Portfolio: https://sohaibmokhliss.github.io  
